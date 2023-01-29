@@ -20,3 +20,7 @@
 ## Мои работы
 * Ручное тестирование - Курсовой проект: [проведение тестирования сайта крупного интер магазина](https://docs.google.com/spreadsheets/d/1HtA5P84TQRSs9jUnlkxwva_VLVtX9EhC-L7HQRugQLU/edit#gid=6507609)
 * Java - [Сервис продажи авиабилетов](https://github.com/SergeyPetrovskiyQA/Ticket-Manager/tree/main)
+
+### Мои контакты
+* [Email](petrovskiy.sa@gmail.com)
+* [Telegram](https://t.me/P_serg28)
