@@ -22,5 +22,5 @@
 * Java - [Сервис продажи авиабилетов](https://github.com/SergeyPetrovskiyQA/Ticket-Manager/tree/main)
 
 ### Мои контакты
-* [Email](petrovskiy.sa@gmail.com)
+* Email - petrovskiy.sa@gmail.com
 * [Telegram](https://t.me/P_serg28)
