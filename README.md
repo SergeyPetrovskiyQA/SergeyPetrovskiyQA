@@ -18,7 +18,8 @@
 * [Git - система контороля версий](https://netology.ru/sharing/ee36d5e557dba07ec18455ef6b2e416f?utm_source=social&utm_campaign=achievements)
 
 ## Мои работы
-* Ручное тестирование - Курсовой проект: [проведение тестирования сайта крупного интер магазина](https://docs.google.com/spreadsheets/d/1HtA5P84TQRSs9jUnlkxwva_VLVtX9EhC-L7HQRugQLU/edit#gid=6507609)
+* Тестирование [сайта интер магазина](https://docs.google.com/spreadsheets/d/1HtA5P84TQRSs9jUnlkxwva_VLVtX9EhC-L7HQRugQLU/edit#gid=6507609)
+* Тестирование формы [заявки на дебетовую карту](https://disk.yandex.ru/d/4_BrWkBfHkxTaQ) 
 * Java - [Сервис продажи авиабилетов](https://github.com/SergeyPetrovskiyQA/Ticket-Manager/tree/main)
 
 ### Мои контакты
